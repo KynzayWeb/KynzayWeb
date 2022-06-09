@@ -1,4 +1,4 @@
---------------------[![Nity Web](standard.gif)](https://www.youtube.com/channel/UCigp_Ho8P3R3_D_zv5b8l3Q)------------------
+--------------------[![Nity Web](banner.gif)](https://www.youtube.com/channel/UCigp_Ho8P3R3_D_zv5b8l3Q)------------------
 <p>
 
 <h1 align="center"><b>KynzayWeb</b></h1>
