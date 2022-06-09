@@ -10,7 +10,7 @@
 
 <p align='center'>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kynzayweb&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=midnight-purple"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynzayweb&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>bg_color=24292e" alt="Lakshya's Github Stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynzayweb&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>
 </p>
 <div> 
   <a href="https://www.youtube.com/channel/UCigp_Ho8P3R3_D_zv5b8l3Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
