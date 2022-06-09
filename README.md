@@ -1,7 +1,7 @@
 --------------------[![Nity Web](standard.gif)](https://www.youtube.com/channel/UCigp_Ho8P3R3_D_zv5b8l3Q)------------------
 <p>
 
-<h1 align="center"><b>Nity Web</b></h1>
+<h1 align="center"><b>KynzayWeb</b></h1>
 </p>
 
 <br>
