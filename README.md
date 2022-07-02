@@ -5,7 +5,9 @@
 </p>
 
 <br>
-<h2 align="center"><b>Kynzay#4521</b></h1>
+#discord
+Kynzay#4521
+server : None
 <br>
 
 ### Setup
