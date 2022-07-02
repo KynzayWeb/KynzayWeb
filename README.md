@@ -8,6 +8,15 @@
 <h2 align="center"><b>Kynzay#4521</b></h1>
 <br>
 
+### My setup
+
+```c#
+_____________________________________
+OS : Win 10 , Kali Linux
+Cpu : I9 9900k , 32go Ram 3600mhz , RTX 3080 super + RTX 2060
+_____________________________________
+```
+
 <p align='center'>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kynzayweb&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=midnight-purple"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kynzayweb&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>
