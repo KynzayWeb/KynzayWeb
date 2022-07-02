@@ -6,9 +6,9 @@
 
 <br>
 
-###discord
-Kynzay#4521
-server : None
+### Discord
+* Kynzay#4521
+* server : None
 
 ### Setup
 
