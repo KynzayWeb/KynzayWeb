@@ -5,7 +5,7 @@
 </p>
 
 <br>
-#discord
+###discord
 Kynzay#4521
 server : None
 <br>
