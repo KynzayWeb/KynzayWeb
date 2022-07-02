@@ -5,10 +5,10 @@
 </p>
 
 <br>
+
 ###discord
 Kynzay#4521
 server : None
-<br>
 
 ### Setup
 
